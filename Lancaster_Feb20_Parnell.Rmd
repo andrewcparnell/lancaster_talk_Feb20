@@ -1,7 +1,7 @@
 ---
 title: "Bayesian (Un-) Mixing Models"
 author: "Andrew C Parnell <br>`andrew.parnell@mu.ie`"
-date: "27th February 2020"
+date: "27th February 2020 <br> https://is.gd/bsimms"
 output: 
   ioslides_presentation: 
     css: my-style.css
@@ -301,6 +301,8 @@ knitr::include_graphics(c("simmr_pack.png","mixsiar_pack.png"))
 <br>
 <div class="centered">
 <b>Thank you!</b>
+<br>
+https://is.gd/bsimms
 </div>
 
 <font size="2"> Stock, B. C., Jackson, A. L., Ward, E. J., Parnell, A. C., Phillips, D. L., & Semmens, B. X. (2018). Analyzing mixing systems using a new generation of Bayesian tracer mixing models. PeerJ, 6, e5096.
