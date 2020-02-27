@@ -3,20 +3,16 @@ title: "Bayesian (Un-) Mixing Models"
 author: "Andrew C Parnell <br>`andrew.parnell@mu.ie`"
 date: "27th February 2020"
 output: 
-  ioslides_presentation:
-    css: "my-style.css"
+  ioslides_presentation: 
+    css: my-style.css
     logo: hamilton_mu.png
-    widescreen: true
-runtime: shiny
+    widescreen: yes
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, fig.width = 7, fig.align = 'center')
 library(tidyverse)
-library(gganimate)
 library(viridis)
-library(stringr)
-library(shiny)
 library(simmr)
 library(readxl)
 ```

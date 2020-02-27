@@ -13,17 +13,6 @@ slides > slide {
   font-family: "Futura", Times, serif;
 }
 
-slides > slide:not(.title-slide) {
-   background-image: url("log.png");
-   background-size: 20%;
-   background-repeat: no-repeat;
-   background-position: 3% 96%;
- }
- 
- .shiny-frame{
-  width: 900px;
-  height: 600px;
-}
 
 slides > slide:not(.nobackground):before {
   width: 108px;
